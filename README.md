@@ -17,3 +17,6 @@ I've created several functions in a separate file to help with the repeated anal
 - numpy
 - spotipy
 - pickle
+
+## Presentation
+(Google Slides)[https://docs.google.com/presentation/d/1epneZ_r4a586vH3mTCswpuGTxYtuiJfnEgJ4Hsfw6Hs/edit#slide=id.p]
